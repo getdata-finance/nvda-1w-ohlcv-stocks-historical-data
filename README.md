@@ -1,6 +1,6 @@
 # NVDA 1w OHLCV US stocks Historical Data — Free Sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-321_rows-blue)](https://getdata.finance/datasets/nvda) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/nvda)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-322_rows-blue)](https://getdata.finance/datasets/nvda) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/nvda)
 
 ### -> [**Download the full NVDA dataset on getdata.finance**](https://getdata.finance/datasets/nvda)
 
@@ -23,11 +23,11 @@
 
 - **Ultra high-quality 1w OHLCV** for **NVIDIA** (US stocks)
 - **Clean CSV schema** — `datetime, open, high, low, close, volume` (no gaps in formatting)
-- **Free evaluation sample** on GitHub (`1w`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/nvda) · **321** `1w` rows in the full archive
+- **Free evaluation sample** on GitHub (`1w`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/nvda) · **322** `1w` rows in the full archive
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1w` sample updated in sync
 
-> **Sample on GitHub** · `NVDA_1w.csv` (106 rows, `2024-08-22` -> `2026-08-27`, 10.51 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/nvda)** — **321** `1w` rows (full `1m`: 598,377), **11 timeframes**, `2020-07-09` -> `2026-08-27`.
+> **Sample on GitHub** · `NVDA_1w.csv` (106 rows, `2024-08-29` -> `2026-09-03`, 10.39 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/nvda)** — **322** `1w` rows (full `1m`: 598,377), **11 timeframes**, `2020-07-09` -> `2026-09-03`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | NVIDIA · US stocks | NVIDIA · US stocks |
 | Timeframes | `1w` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1w rows | 106 | **321** |
-| Size | 10.51 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/nvda) |
-| Period | `2024-08-22` -> `2026-08-27` | `2020-07-09` -> `2026-08-27` |
+| 1w rows | 106 | **322** |
+| Size | 10.39 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/nvda) |
+| Period | `2024-08-29` -> `2026-09-03` | `2020-07-09` -> `2026-09-03` |
 | File | `NVDA_1w.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/nvda) |
 | Coverage report | — | [NVDA coverage](https://getdata.finance/coverage/nvda) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,21 +75,21 @@ First and latest rows from the GitHub sample **`NVDA_1w.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2024-08-22T00:00:00+00:00 | 128.36 | 131.19 | 122.58 | 125.62 | 740506 |
 | 2024-08-29T00:00:00+00:00 | 125.62 | 125.62 | 104.04 | 106.11 | 559785 |
 | 2024-09-05T00:00:00+00:00 | 106.11 | 117.04 | 100.88 | 116.62 | 739932 |
 | 2024-09-12T00:00:00+00:00 | 116.62 | 120.68 | 113.13 | 113.2 | 653003 |
 | 2024-09-19T00:00:00+00:00 | 113.2 | 124.83 | 113.2 | 123.4 | 544523 |
+| 2024-09-26T00:00:00+00:00 | 123.4 | 127.54 | 115.02 | 118.71 | 633331 |
 
 **Last rows**
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-30T00:00:00+00:00 | 186.79 | 218.93 | 186.79 | 215.94 | 652623.79781 |
 | 2026-08-06T00:00:00+00:00 | 215.94 | 221.81 | 213.01 | 220.86 | 583591.4738 |
-| 2026-08-13T00:00:00+00:00 | 220.86 | 224.67 | 213.5 | 214.43 | 489786.2698 |
-| 2026-08-20T00:00:00+00:00 | 214.43 | 216.57 | 204.45 | 206.77 | 458185 |
-| 2026-08-27T00:00:00+00:00 | 206.77 | 226.92 | 206.77 | 213.99 | 465059 |
+| 2026-08-13T00:00:00+00:00 | 220.86 | 227.75 | 216.45 | 217.5 | 489786.2698 |
+| 2026-08-20T00:00:00+00:00 | 217.5 | 219.66 | 207.32 | 209.77 | 459082 |
+| 2026-08-27T00:00:00+00:00 | 209.77 | 230.31 | 209.77 | 224.18 | 565089 |
+| 2026-09-03T00:00:00+00:00 | 224.18 | 234.59 | 224.18 | 225.61 | 292119 |
 
 ## Schema
 
@@ -154,7 +154,7 @@ print(pf.stats())
 
 ## Download full data
 
-The complete **NVDA** archive on **[getdata.finance](https://getdata.finance/datasets/nvda)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **321** rows at `1w`, plus all other timeframes in the same ZIP.
+The complete **NVDA** archive on **[getdata.finance](https://getdata.finance/datasets/nvda)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **322** rows at `1w`, plus all other timeframes in the same ZIP.
 
 **[-> Get the full NVDA dataset on getdata.finance](https://getdata.finance/datasets/nvda)**
 
